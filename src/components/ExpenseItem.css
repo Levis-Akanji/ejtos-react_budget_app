@@ -1,0 +1,17 @@
+/* ExpenseItem.css */
+
+.increase-btn {
+    background-color: green; /* Green background */
+    color: white; /* White text */
+    border: none; /* No border */
+    padding: 5px 10px; /* Padding */
+    cursor: pointer; /* Pointer cursor */
+}
+
+.decrease-btn {
+    background-color: red; /* Red background */
+    color: white; /* White text */
+    border: none; /* No border */
+    padding: 5px 10px; /* Padding */
+    cursor: pointer; /* Pointer cursor */
+}

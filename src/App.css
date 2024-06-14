@@ -35,4 +35,9 @@
   to {
     transform: rotate(360deg);
   }
+
 }
+.green-text {
+  color: green;
+}
+

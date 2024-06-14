@@ -1,0 +1,22 @@
+/* styles.css */
+.currency-label {
+    font-size: 14px;
+    color: green;
+    margin-top: 5px;
+}
+
+/* Style the select dropdown */
+.currency-select {
+    font-size: 14px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: white;
+    color: #555;
+}
+
+.currency-select:focus {
+    outline: none;
+    border-color: #4CAF50; /* Add focus style */
+    box-shadow: 0 0 5px rgba(81, 203, 238, 1); /* Add focus shadow */
+}
